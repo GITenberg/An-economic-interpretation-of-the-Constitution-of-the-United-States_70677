@@ -1,5 +1,8 @@
 _repo: An-economic-interpretation-of-the-Constitution-of-the-United-States_70677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70677-h/images/cover.jpg
 creator:
   author:
     agent_name: Beard, Charles A. (Charles Austin)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7052
     wikipedia: https://en.wikipedia.org/wiki/Charles_A._Beard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70677#An-economic-interpretation-of-the-Constitution-of-the-United-States
 gutenberg_issued: '2023-04-30'
 identifiers:
   gutenberg: '70677'
